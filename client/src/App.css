@@ -1,0 +1,32 @@
+.App {
+  text-align: center;
+  background-color: bisque;
+}
+form{
+  display: inline-block;
+  background-color: coral;
+  margin: 20px;
+  border-radius: 15px;
+}
+form div{
+margin: 15px;
+}
+form label{
+  display: inline-block;
+  width: 100px;
+}
+form input{
+  border-radius: 5px;
+}
+#homeBtn {
+  width: 100px;
+}
+img{
+  width: 400px;
+  height: 400px;
+  border-radius: 15px;
+}
+#choosePic {
+width: 100px;
+height: 100px;
+}
